@@ -14,7 +14,7 @@ ShIO is an open source C and language library released under the Unlicense, simi
 
 >Now version:pre-20250411
 
--[X] Print text in some color
--[X] Progress Bar
--[ ] Custom Input
--[ ]TUI
+- [X] Print text in some color
+- [X] Progress Bar
+- [ ] Custom Input
+- [ ] TUI
